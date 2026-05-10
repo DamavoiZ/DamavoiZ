@@ -22,6 +22,6 @@ Right now I'm busy with backend architecture and making systems so reliable they
 
 <div align="center">
 
-Most of my work happens behind the API — clean architecture, reliable systems, and infrastructure that just works.
+I do and say what the fk I wanna say when I wanna say it.
 
 </div>
