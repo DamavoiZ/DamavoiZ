@@ -6,11 +6,11 @@
 
 ---
 
-I build backend systems that don't fall over. APIs, databases, infrastructure — that's where I live. Frontend? I touch it only when absolutely necessary, and I have the error logs to prove why.
+I build things that run while I sleep. APIs, databases, servers — the stuff you don't see but would definitely notice if it broke. Frontend is someone else's problem, and I intend to keep it that way.
 
-I automate everything that moves twice. Hermes Agent runs my cronjobs, workflows, and daily routines. Self-hosted infrastructure is non-negotiable — Obsidian LiveSync, Glance Dashboard, all running on my own terms. CachyOS with GNOME and Fish shell. Terminal-first, nano for quick edits.
+Automation is my default setting. If I do something twice, I write a script for the third time. Hermes Agent handles my cronjobs, workflows, and anything else I can offload to a machine. My infrastructure is self-hosted because renting other people's computers gets old. Obsidian LiveSync, Glance Dashboard, the usual suspects. CachyOS, GNOME, Fish shell, nano when I need to change a line real quick.
 
-Current work: backend architecture, system design, and making infrastructure disappear into the background where it belongs.
+Right now I'm busy with backend architecture and making systems so reliable they become invisible.
 
 ---
 
@@ -22,6 +22,6 @@ Current work: backend architecture, system design, and making infrastructure dis
 
 <div align="center">
 
-I do and say what the fk I wanna say when I wanna say it.
+Most of my work happens behind the API — clean architecture, reliable systems, and infrastructure that just works.
 
 </div>
