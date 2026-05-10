@@ -6,9 +6,9 @@
 
 ---
 
-I build backend systems that don't fall over. APIs, databases, infrastructure — that's where I live. Not the frontend. Frontend is a mess I happily leave to others.
+I build backend systems that don't fall over. APIs, databases, infrastructure — that's where I live. Frontend? I touch it only when absolutely necessary, and I have the error logs to prove why.
 
-My stack is Python, TypeScript, Go, and Bash. Frameworks come and go — currently FastAPI, tRPC, Astro when I have to touch a web layer. For infrastructure I run Docker, Nginx, and whatever Linux box is available. PostgreSQL and Redis handle the data. GitHub Actions and Nginx Proxy Manager keep deployments and routing in check.
+My stack is Python, TypeScript, Go, and Bash. Frameworks come and go — currently FastAPI, tRPC, Astro when I absolutely must touch a web layer. For infrastructure I run Docker, Nginx, and whatever Linux box is available. PostgreSQL and Redis handle the data. GitHub Actions and Nginx Proxy Manager keep deployments and routing in check.
 
 I automate everything that moves twice. Hermes Agent runs my cronjobs, workflows, and daily routines. Self-hosted infrastructure is non-negotiable — Obsidian LiveSync, Glance Dashboard, all running on my own terms. CachyOS with GNOME and Fish shell. Terminal-first, nano for quick edits.
 
