@@ -6,11 +6,13 @@
 
 ---
 
-I build things that run while I sleep. APIs, databases, servers — the stuff you don't see but would definitely notice if it broke. Frontend is someone else's problem, and I intend to keep it that way.
+I break things on purpose so they don't break by accident. Mostly on **CachyOS** because I'm too impatient for stock Arch and too stubborn for Ubuntu.
 
-Automation is my default setting. If I do something twice, I write a script for the third time. Hermes Agent handles my cronjobs, workflows, and anything else I can offload to a machine. My infrastructure is self-hosted because renting other people's computers gets old. Obsidian LiveSync, Glance Dashboard, the usual suspects.
+Everything lives in **Docker** containers orchestrated by **Portainer** and kept alive by caffeine. My automations run on [**Hermes Agent**](https://hermes-agent.nousresearch.com/) from **Nous Research** — not because I'm too lazy to do cronjobs myself, but because why should I? The machine works 24/7, I don't.
 
-Right now I'm busy with backend architecture and making systems so reliable they become invisible.
+Self-hosted everything. **Obsidian** syncs across my devices, dashboards tell me what's on fire, and if nothing's on fire, I get suspicious.
+
+Currently doing developer things.
 
 ---
 
