@@ -12,13 +12,6 @@ Automation is my default setting. If I do something twice, I write a script for 
 
 Right now I'm busy with backend architecture and making systems so reliable they become invisible.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamavoiZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamavoiZ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## Contribution Graph
