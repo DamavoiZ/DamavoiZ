@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Damavoi;Backend+Developer;Infrastructure+%26+DevOps;Linux+Native;Automating+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi%2C+Im+Damavoi;I+break+things+professionally;Self-hosted+%26+self-damaged;If+it+repeats%2C+it+gets+scripted;Sleep+is+for+frontend+devs)](https://git.io/typing-svg)
 
 </div>
 
