@@ -40,3 +40,4 @@ Backend Developer | Infrastructure & DevOps Enthusiast | Linux Native
 ---
 
 *Most of my work happens behind the API — clean architecture, reliable systems, and infrastructure that just works.*
+
